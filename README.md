@@ -13,7 +13,7 @@ I ran the machine learning model twice, once with the original data and again af
 ---
 ## Results
 
-LogisticRegression Model on original dataset:
+Logistic Regression Model on original dataset:
 * Precision
     * Healthy "0" - 1.00
     * Risky "1" - 0.85
@@ -23,7 +23,7 @@ LogisticRegression Model on original dataset:
      * Healthy "0" - 0.99
      * Risky "1" - 0.91
      
-LogisticRegression on oversampled dataset:
+Logistic Regression Model on oversampled dataset:
 * Precision
     * Healthy "0" - 1.00
     * Risky "1" - 0.84
